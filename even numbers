@@ -1,0 +1,8 @@
+class lastDigit{
+       public static void main(string[] args) {
+              int  num;
+               if ( num % == 0 ) {
+                     system.out.println("numbers is even");
+              }
+       }       
+              

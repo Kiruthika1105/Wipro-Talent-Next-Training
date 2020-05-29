@@ -1,0 +1,15 @@
+public class solutions{
+       public static void main(string[] args) {
+       int sum = 0;
+       for( int num : nubers ) {
+           sum = sum + num;
+       }
+       return 0;
+       }
+}
+
+}       
+       
+       
+       
+       
